@@ -9,6 +9,7 @@ It will include:
   + `shinyjs`
   + `shinydashboard`
   + `shinymaterial`
+  + `shinyWidgets`
   + `shinycssloaders`
   + `shinyhelper`
   + ...
